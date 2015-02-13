@@ -1,0 +1,7 @@
+
+1. import localhost.sql in your database
+ (This will create database 'tab' and 2 tables in it one is 'users' and another is 'logs')
+
+2. go to config.php and fill your database username and password .
+
+3. run login.php
